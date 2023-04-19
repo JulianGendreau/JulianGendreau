@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi i'm Julian 👋
+
+Here on my GitHub page, you will find many example scripts for a wide range of different platforms than can be used for medical researchers. Feel free to browse iteratively, as I continuously update my work on this page.
+
 
 <!--
 **JulianGendreau/JulianGendreau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
