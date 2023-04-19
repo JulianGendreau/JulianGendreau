@@ -1,6 +1,8 @@
 ### Hi i'm Julian 👋
 
-Here on my GitHub page, you will find many example scripts for a wide range of different platforms than can be used for medical researchers. Feel free to browse iteratively, as I continuously update my work on this page.
+Here on my GitHub page, you will find many example scripts for a wide range of different platforms than can be used for medical researchers. Feel free to browse iteratively, as I continuously update my work on this page. All of these scripts are open source under the Apache 2.0 license and are provided to enhance visibility in data science while also promoting reproducibility of research studies. 
+
+Please feel free to browse my publications found in the links to the left.
 
 
 <!--
