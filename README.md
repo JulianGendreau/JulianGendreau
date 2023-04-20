@@ -4,6 +4,8 @@ Here on my GitHub page, you will find many example scripts for a wide range of d
 
 Please feel free to browse my publications found in the links to the left.
 
+Additionally, please check out our new book "The Future of Technology in Medicine" available at World Scientific Publisher at the following link: https://www.worldscientific.com/worldscibooks/10.1142/13354#t=aboutBook
+
 
 <!--
 **JulianGendreau/JulianGendreau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
