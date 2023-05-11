@@ -4,7 +4,10 @@ Here on my GitHub page, you will find many example scripts for a wide range of d
 
 Please feel free to browse my publications found in the links to the left.
 
-Additionally, please check out our new book "The Future of Technology in Medicine" available at World Scientific Publisher at the following link: https://www.worldscientific.com/worldscibooks/10.1142/13354#t=aboutBook
+Additionally, our new book "The Future of Technology in Medicine" is available at World Scientific Publisher using the following link: https://www.worldscientific.com/worldscibooks/10.1142/13354#t=aboutBook
+
+Recent _Neurosurgery_ "Journal Highlights" video: https://www.youtube.com/watch?v=LVHhm872h5o
+
 
 
 <!--
