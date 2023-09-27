@@ -12,7 +12,7 @@ Recent _Neurosurgery_ "Journal Highlights" video: https://www.youtube.com/watch?
 
 
 Contact:
-juliangendreau@gmail.com
+juliangendreau@gmail.com,
 jgendre1@jhu.edu
 
 <!--
