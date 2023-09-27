@@ -6,9 +6,14 @@ Please feel free to browse my publications found in the links to the left.
 
 Additionally, our new book "The Future of Technology in Medicine" is available at World Scientific Publisher using the following link: https://www.worldscientific.com/worldscibooks/10.1142/13354#t=aboutBook
 
+Please see our iPhone applications with crowdsourced machine learning calculators in medicine: https://www.med-dx.org, https://apps.apple.com/in/app/meddx/id1667845883
+
 Recent _Neurosurgery_ "Journal Highlights" video: https://www.youtube.com/watch?v=LVHhm872h5o
 
 
+Contact:
+juliangendreau@gmail.com
+jgendre1@jhu.edu
 
 <!--
 **JulianGendreau/JulianGendreau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
