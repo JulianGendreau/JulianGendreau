@@ -11,7 +11,7 @@ Additionally, check out our book "The Future of Technology in Medicine" is avail
 Please see our iPhone applications with crowdsourced machine learning calculators in medicine: https://www.med-dx.org, https://apps.apple.com/in/app/meddx/id1667845883
 
 Contact:
-juliangendreau@gmail.com
+juliangendreau@gmail.com, gendreauj@ohsu.edu
 
 <!--
 **JulianGendreau/JulianGendreau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
