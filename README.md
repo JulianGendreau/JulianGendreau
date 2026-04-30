@@ -8,8 +8,6 @@ Please check out our new release: "The Clinical Research Handbook" available at 
 
 Additionally, check out our book "The Future of Technology in Medicine" is available at World Scientific Publisher using the following link: https://www.worldscientific.com/worldscibooks/10.1142/13354#t=aboutBook
 
-Please see our iPhone applications with crowdsourced machine learning calculators in medicine: https://www.med-dx.org, https://apps.apple.com/in/app/meddx/id1667845883
-
 Contact:
 juliangendreau@gmail.com, gendreauj@ohsu.edu
 
